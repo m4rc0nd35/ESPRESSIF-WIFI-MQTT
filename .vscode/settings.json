@@ -1,0 +1,19 @@
+{
+  "C_Cpp.clang_format_style": "Visual Studio",
+  "editor.formatOnSave": false,
+  "[cpp]": {
+    "editor.quickSuggestions": true
+  },
+  "[c]": {
+    "editor.quickSuggestions": true
+  },
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "idf.portWin": "COM6",
+  "files.associations": {
+    "wifi_feature.h": "c",
+    "string": "c",
+    "string.h": "c",
+    "err.h": "c",
+    "esp_log.h": "c"
+  }
+}
